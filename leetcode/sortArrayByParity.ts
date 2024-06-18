@@ -1,3 +1,6 @@
+/**
+  @see  {@link https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/}
+*/
 function sortArrayByParity(nums: number[]): number[] {
     let rs = [];
     nums.forEach(w => {
